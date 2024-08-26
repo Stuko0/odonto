@@ -3,7 +3,7 @@ software engineering 2 project
 
 Clone the repository with:
 - git clone --branch dev https://github.com/Stuko0/odonto.git
-Or
++ OR
 - git clone -b dev https://github.com/Stuko0/odonto.git
 
 Members:
